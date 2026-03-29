@@ -1,2 +1,2 @@
 # Virelios
-Workout tracking app with limitless posibilities
+Workout tracking app with limitless possibilities
